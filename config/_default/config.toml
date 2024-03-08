@@ -14,3 +14,13 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
+
+
+[markup]
+  _missingHugoShortcode = "warn"
+  shortcodes = ["adsense"]
+
+[shortcodes]
+  [shortcodes.adsense]
+    params = []
+    content = "layouts/_internal/shortcodes/adsense.html"
