@@ -15,12 +15,3 @@ lineNoStart = 1
 lineNos = true
 lineNumbersInTable = true
 tabWidth = 4
-
-[markup]
-  _missingHugoShortcode = "warn"
-  shortcodes = ["adsense"]
-
-[shortcodes]
-  [shortcodes.adsense]
-    params = []
-    content = "layouts/partials/google/analytics.html"
