@@ -24,3 +24,9 @@ disqusShortname = "hugo-theme-stack"
   [shortcodes.adsense]
     params = []
     content = "layouts/shortcodes/adsense.html"
+
+[outputFormats]
+  [outputFormats.HTML]
+    baseName = "google"
+    mediaType = "text/html"
+    isHTML = true

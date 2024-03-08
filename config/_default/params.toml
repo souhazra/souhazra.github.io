@@ -147,3 +147,8 @@ clientSecret = ""
 [comments.cusdis]
 host = ""
 id = ""
+
+[shortcodes]
+[shortcodes.adsense]
+params = []
+content = "layouts/shortcodes/adsense.html"
