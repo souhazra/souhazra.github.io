@@ -42,3 +42,5 @@ Thank you for visiting **Learn with Souren**. I hope you find this blog informat
 Happy Learning!
 
 **Souren**
+
+{% include adsense.html %}
