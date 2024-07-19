@@ -2,7 +2,7 @@
 layout: post
 title:  "Image Representation: The Building Blocks"
 author: Souren
-categories: [Image Processing, Deep Learning ]
+categories: [Image Processing]
 image: assets/images/dive_into_image_processing/image_represatation.png
 tags: [image]
 ---

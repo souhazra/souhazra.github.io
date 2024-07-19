@@ -5,4 +5,4 @@ permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Souren [@iamsouren](https://x.com).
+Made with <i class="fa fa-heart text-danger"></i> by Souren [@iamsouren](https://www.linkedin.com/in/souren/).

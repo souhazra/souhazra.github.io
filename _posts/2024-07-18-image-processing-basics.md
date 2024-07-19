@@ -2,7 +2,7 @@
 layout: post
 title:  "A Quick Dive into Image Processing"
 author: Souren
-categories: [Image Processing, Deep Learning ]
+categories: [Image Processing]
 image: assets/images/dive_into_image_processing/img_processingjpg.jpg
 tags: [image]
 ---
