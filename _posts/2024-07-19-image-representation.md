@@ -112,3 +112,5 @@ shows a portion of a grayscale image along with its corresponding pixel values
 - May introduce artifacts if not done carefully.
 
 Understanding these fundamental concepts of image representation will set a solid foundation for further exploration into image processing and computer vision. Happy learning!
+
+{% include adsense.html %}

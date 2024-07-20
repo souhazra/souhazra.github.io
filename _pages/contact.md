@@ -18,3 +18,5 @@ permalink: "/contact.html"
 <input type="hidden" name="redirectTo" value="https://souhazra.github.io/welcome-to-learn-with-souren">
 <input class="btn btn-success" type="submit" value="Send">
 </form>
+
+{% include adsense.html %}

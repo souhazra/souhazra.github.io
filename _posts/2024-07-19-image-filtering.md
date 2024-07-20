@@ -72,3 +72,6 @@ Image filtering plays a pivotal role in various fields:
 This is just a glimpse into the vast world of image filtering.  There are countless other filters and techniques to explore, each with unique properties and applications. Understanding the principles of convolution and the different types of filters opens up a whole new realm of possibilities for image manipulation and analysis.
 
 Feel free to ask if you have any more questions or want to explore specific filtering techniques in more detail!
+
+
+{% include adsense.html %}
